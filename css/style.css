@@ -1,0 +1,41 @@
+.body {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.logo {
+    width: 40px;
+}
+
+.navbar {
+    background-color: #242424;
+    color: lawngreen;
+}
+.navbar-personalizada {
+   
+}
+
+.link-personalizado {
+    
+}
+
+.hamburguer {
+    border-color: lightblue;
+}
+
+.margin {
+    background-color: lightgray;
+    padding: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.imagem-trade {
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    border-width: 5px;
+}
+
+.quadros {
+    text-align: center;
+}
